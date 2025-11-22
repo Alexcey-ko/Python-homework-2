@@ -1,4 +1,4 @@
-"""6. match/case"""
+"""6. match/case."""
 
 cmd = input('Введите команду: ')
 match cmd:
